@@ -1,6 +1,6 @@
 // This function is used to add 2 numbers
 const sum = (a, b) => {
-  return a + b;
+  return a + b - 2;
 }
 // This function is used to multiply 2 numbers
 const multiply = (a, b) => {
