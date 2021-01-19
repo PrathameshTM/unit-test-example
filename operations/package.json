@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/PrathameshTM/unit-test-example.git"
   },
-  "pre-commit": [
-    "test"
-  ],
   "keywords": [
     "unit",
     "test",
